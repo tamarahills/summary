@@ -1,0 +1,19 @@
+{
+  "name": "summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "count-words": "^1.0.11",
+    "express": "^4.16.4",
+    "html-entities": "^1.2.1",
+    "natural": "^0.6.2",
+    "request-promise": "^4.2.2",
+    "webworker-threads": "^0.7.17"
+  }
+}
